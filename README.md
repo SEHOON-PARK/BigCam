@@ -8,10 +8,10 @@ The data has to be secured by policy of SK Construction
 
 Please ignore this project, if you are an "Unrelated member" or Such a person and so on
 
-Part 1 - 
-Part 2 -
-Part 3 - 
-Part 4 - 
-Part 5 - 
-Part 6 - 
-Part 7 - 
+- Part 1
+- Part 2 
+- Part 3
+- Part 4 
+- Part 5 
+- Part 6 
+- Part 7 
