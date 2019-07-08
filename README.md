@@ -2,7 +2,7 @@
 [Big Data Campus] Building_IT_Classification_Project 
 
 This project is "Architecture IT Project" of Bigdata Campus which is perfomed with 
-*Sehoon.Park and Wooheon.Hong, Jaejin.Choi, Hoiseong.Ryu*
+**_Sehoon.Park and Wooheon.Hong, Jaejin.Choi, Hoiseong.Ryu_**
 
 The data has to be secured by policy of SK Construction
 
