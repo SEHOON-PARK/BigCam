@@ -8,7 +8,7 @@ The data has to be protected by policy of SK Construction
 
 Please ignore this project, if you are an "Unrelated member" or Such a person and so on
 
-- Part 1
+- Part 1 - EDA 
 - Part 2 
 - Part 3
 - Part 4 
